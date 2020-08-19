@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musik</string>
+    <string name="imagename">IMAGE NAME</string>
+    <string name="song1">Counting Stars</string>
+    <string name="song2">Kalakathe</string>
+    <string name="alb1">One Republic</string>
+    <string name="alb2">Ayappanum Koshiyum</string>
+    <string name="song3">Ranam Title Track</string>
+    <string name="alb3">Ranam</string>
+    <string name="song4">Maa</string>
+    <string name="alb4">Taare Zameen Par</string>
+    <string name="song5">Chandelier</string>
+    <string name="alb5">Sia</string>
+    <string name="head">Top Picks</string>
+</resources>
